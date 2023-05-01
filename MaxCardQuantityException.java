@@ -1,5 +1,3 @@
-package Homework3;
-
 public class MaxCardQuantityException extends Exception
 {
     /**
