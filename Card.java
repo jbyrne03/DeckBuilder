@@ -1,14 +1,11 @@
-package Homework3;
 /**
  * This class is used to create the Card object.
  * Cards have a name, a class, and a type.
  * Can be used to set and access the values or a card.
  * writeOutput method to print card information.
  * readInput method to allow user to input data for Card objects.
- * @author James Byrne
  * @version 0.1
  * @since 03/09/2023
- * @email jbyrne03@nyit.edu
  */
 
 import java.util.Scanner;
