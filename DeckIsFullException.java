@@ -1,5 +1,3 @@
-package Homework3;
-
 public class DeckIsFullException extends Exception
 {
     /**
